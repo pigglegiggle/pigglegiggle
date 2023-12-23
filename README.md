@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sin (UX/UI, Front End Developer)</h1>
+<h1 align="center">Hi, I'm an UX/UI, Front End Developer</h1>
 <h3 align="center">sinpw782@gmail.com (for work)</h3>
 
 <h3 align="left">Languages and Tools:</h3>
