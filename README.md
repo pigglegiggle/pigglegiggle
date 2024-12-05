@@ -22,7 +22,7 @@ Here are a few things I’ve built or am currently working on:
 
 ## Let's Connect
 - 📧 Email: [your email]
-- 🌐 LinkedIn: [[your LinkedIn URL]](https://www.linkedin.com/in/patcharaphon-thepwijit-a69aaa2a0/)
+- 🌐 LinkedIn: Click me:)(https://www.linkedin.com/in/patcharaphon-thepwijit-a69aaa2a0/)
 - 👨‍💻 GitHub: [your GitHub URL]
 
 Feel free to check out my work, contribute to my repos, or just drop me a message! 😄
