@@ -1,9 +1,8 @@
-# Hey, I'm Sin! 👋 I'm a backend developer and currently studying Information Technology and Business Information Technology at KMITL. I love solving complex problems with code and building scalable backend systems, especially with Golang.
+Hey, I'm Sin! 👋 I'm a backend developer and currently studying Information Technology and Business Information Technology at KMITL. I love solving complex problems with code and building scalable backend systems, especially with Golang.
 
 ## About Me
 - 🧑‍💻 Backend developer with a passion for Golang and building efficient APIs.
-- 🎓 A student at KMITL, focusing on IT and Business Information Technology.
-- 💡 I’m always exploring ways to integrate tech with business to create real-world solutions.
+- 🎓 A student at KMITL, Business Information Technology.
 - 📚 I enjoy learning new technologies and improving my skills with every project I take on.
 
 ## Tech Stack
@@ -23,7 +22,7 @@ Here are a few things I’ve built or am currently working on:
 
 ## Let's Connect
 - 📧 Email: [your email]
-- 🌐 LinkedIn: [your LinkedIn URL]
+- 🌐 LinkedIn: [[your LinkedIn URL]](https://www.linkedin.com/in/patcharaphon-thepwijit-a69aaa2a0/)
 - 👨‍💻 GitHub: [your GitHub URL]
 
 Feel free to check out my work, contribute to my repos, or just drop me a message! 😄
