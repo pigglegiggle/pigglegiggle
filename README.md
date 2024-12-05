@@ -7,8 +7,8 @@ Hey, I'm Sin! 👋 I'm a backend developer and currently studying Information Te
 
 ## Tech Stack
 - **Languages**: Golang, Python, PHP, TypeScript
-- **Frameworks**: Echo, Flask, Express, FastAPI
-- **Databases**: PostgreSQL, MySQL, MongoDB
+- **Frameworks**: Echo, Flask, Express, FastAPI, React, NextJS
+- **Databases**: PostgreSQL, MySQL, MongoDB, SQLite
 
 ## Let's Connect
 - 📧 [Email](mailto:sinpw782@example.com)
