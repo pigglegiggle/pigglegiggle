@@ -12,8 +12,6 @@ Hey, I'm [Your Name]! 👋 I'm a backend developer and currently studying Inform
 - **Languages**: Golang, Python, SQL
 - **Frameworks**: Gin, Echo, gRPC
 - **Databases**: PostgreSQL, MySQL, MongoDB
-- **Tools**: Docker, Kubernetes, Git, CI/CD (GitHub Actions)
-- **Cloud**: AWS, Google Cloud
 
 ## My Projects
 Here are a few things I’ve built or am currently working on:
