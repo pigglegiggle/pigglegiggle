@@ -1,33 +1,33 @@
-# Backend Developer - Golang | KMITL IT Student
+# Backend Developer | Golang Enthusiast | KMITL IT Student
 
-Hi there! 👋 I'm a backend developer and a student at King Mongkut's Institute of Technology Ladkrabang (KMITL), currently pursuing a degree in Information Technology and Business Information Technology. I'm passionate about developing scalable and efficient backend systems using Golang and contributing to impactful projects.
+Hey, I'm [Your Name]! 👋 I'm a backend developer and currently studying Information Technology and Business Information Technology at KMITL. I love solving complex problems with code and building scalable backend systems, especially with Golang.
 
-## 🚀 About Me
-- 🧑‍💻 **Backend Developer** focused on building robust APIs and microservices.
-- 🎓 Currently studying Information Technology and Business Information Technology at KMITL.
-- 💡 Strong interest in business and technology integration, and solving real-world problems with code.
-- 💬 Ask me about backend development, Golang, or anything related to IT and business tech!
+## About Me
+- 🧑‍💻 Backend developer with a passion for Golang and building efficient APIs.
+- 🎓 A student at KMITL, focusing on IT and Business Information Technology.
+- 💡 I’m always exploring ways to integrate tech with business to create real-world solutions.
+- 📚 I enjoy learning new technologies and improving my skills with every project I take on.
 
-## 🛠️ Technologies & Tools
-- **Languages**: Go (Golang), SQL, Python
-- **Frameworks**: Gin, Echo (for Go), gRPC
+## Tech Stack
+- **Languages**: Golang, Python, SQL
+- **Frameworks**: Gin, Echo, gRPC
 - **Databases**: PostgreSQL, MySQL, MongoDB
-- **Tools**: Docker, Kubernetes, Git, CI/CD (Jenkins, GitHub Actions)
-- **Cloud**: AWS, Google Cloud Platform
+- **Tools**: Docker, Kubernetes, Git, CI/CD (GitHub Actions)
+- **Cloud**: AWS, Google Cloud
 
-## 📂 Projects
-Here are some of the projects I’ve worked on:
-- **Project 1**: [Link to project] - A backend system built with Go for a scalable e-commerce platform.
-- **Project 2**: [Link to project] - An API for a fitness tracking app using Golang and PostgreSQL.
-- **Project 3**: [Link to project] - A microservices architecture for a cloud-based application using Docker and Kubernetes.
+## My Projects
+Here are a few things I’ve built or am currently working on:
+- **E-commerce Backend**: A Go-based backend for an e-commerce platform. It's designed for performance and scalability.
+- **Fitness Tracker API**: A Golang API to track fitness data, built with PostgreSQL.
+- **Microservices App**: Using Docker and Kubernetes to create a scalable microservices-based app.
 
-## 💼 Currently Working On
-- Building a **Fitness Tracker API** with a focus on performance optimization and scalability using Golang.
-- Exploring new backend architectures and frameworks to improve the efficiency and maintainability of my projects.
+## Currently Working On
+- A **Fitness Tracker API** focused on making the backend super fast and scalable with Golang.
+- Exploring new backend frameworks and architectures to keep improving my coding game!
 
-## 📫 Contact
-- Email: [your email]
-- LinkedIn: [your LinkedIn URL]
-- GitHub: [your GitHub URL]
+## Let's Connect
+- 📧 Email: [your email]
+- 🌐 LinkedIn: [your LinkedIn URL]
+- 👨‍💻 GitHub: [your GitHub URL]
 
-Feel free to check out my repositories, contribute, or just say hi! 😊
+Feel free to check out my work, contribute to my repos, or just drop me a message! 😄
