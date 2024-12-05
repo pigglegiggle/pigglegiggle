@@ -10,18 +10,8 @@ Hey, I'm Sin! 👋 I'm a backend developer and currently studying Information Te
 - **Frameworks**: Echo, Flask, Express, FastAPI
 - **Databases**: PostgreSQL, MySQL, MongoDB
 
-## My Projects
-Here are a few things I’ve built or am currently working on:
-- **E-commerce Backend**: A Go-based backend for an e-commerce platform. It's designed for performance and scalability.
-- **Fitness Tracker API**: A Golang API to track fitness data, built with PostgreSQL.
-- **Microservices App**: Using Docker and Kubernetes to create a scalable microservices-based app.
-
-## Currently Working On
-- A **Fitness Tracker API** focused on making the backend super fast and scalable with Golang.
-- Exploring new backend frameworks and architectures to keep improving my coding game!
-
 ## Let's Connect
-- 📧 [Email](mailto:sinpw782@example.com
+- 📧 [Email](mailto:sinpw782@example.com)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/patcharaphon-thepwijit-a69aaa2a0/)
 
 Feel free to check out my work, contribute to my repos, or just drop me a message! 😄
