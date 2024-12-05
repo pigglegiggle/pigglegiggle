@@ -1,4 +1,4 @@
-##Hey, I'm Sin! 👋 I'm a backend developer and currently studying Information Technology and Business Information Technology at KMITL. I love solving complex problems with code and building scalable backend systems, especially with Golang.
+## Hey, I'm Sin! 👋 I'm a backend developer and currently studying Information Technology and Business Information Technology at KMITL. I love solving complex problems with code and building scalable backend systems, especially with Golang.
 
 ## About Me
 - 🧑‍💻 Backend developer with a passion for Golang and building efficient APIs.
