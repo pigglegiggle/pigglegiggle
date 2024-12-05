@@ -21,8 +21,7 @@ Here are a few things I’ve built or am currently working on:
 - Exploring new backend frameworks and architectures to keep improving my coding game!
 
 ## Let's Connect
-- 📧 Email: [your email]
-- 🌐 LinkedIn: Click me:)(https://www.linkedin.com/in/patcharaphon-thepwijit-a69aaa2a0/)
-- 👨‍💻 GitHub: [your GitHub URL]
+- 📧 [Email](mailto:sinpw782@example.com
+- 🌐 [LinkedIn](https://www.linkedin.com/in/patcharaphon-thepwijit-a69aaa2a0/)
 
 Feel free to check out my work, contribute to my repos, or just drop me a message! 😄
