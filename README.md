@@ -18,11 +18,11 @@
 
 ###
 
-<h4 align="left">Frameworks/Libraries</h4>
+<h4 align="center">Frameworks/Libraries</h4>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
