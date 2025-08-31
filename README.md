@@ -1,1 +1,1 @@
-![Description](https://i.imgur.com/gBxP6oJ.gif)
+![Cool GIF](https://i.imgur.com/gBxP6oJ.gif)
