@@ -1,1 +1,1 @@
-![Cool GIF](https://i.imgur.com/gBxP6oJ.gif)
+![](https://giffiles.alphacoders.com/215/215911.gif)
