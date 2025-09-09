@@ -1,1 +1,4 @@
-![](https://i.pinimg.com/originals/d1/02/d6/d102d6c1f5c4997c7b268b3eda173e86.gif)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=pigglegiggle&show_icons=true&theme=radical)](https://github.com/pigglegiggle)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pigglegiggle&layout=compact&theme=radical)](https://github.com/pigglegiggle)
+
