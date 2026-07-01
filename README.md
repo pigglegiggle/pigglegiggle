@@ -5,15 +5,15 @@
 ###
 
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pigglegiggle/pigglegiggle/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pigglegiggle/pigglegiggle/pacman-output/galaga-contribution-graph.svg?game=galaga">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pigglegiggle/pigglegiggle/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pigglegiggle/pigglegiggle/pacman-output/puzzle-bobble-contribution-graph-dark.svg?game=puzzle-bobble">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pigglegiggle/pigglegiggle/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pigglegiggle/pigglegiggle/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
 </picture>
 
 ###
 
 <div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://count.getloli.com/@:pigglegiggle?theme=booru-rfck&padding=7&scale=1&align=top&pixelated=1&darkmode=1"  />
+  <img data-importer="profile-views" src="https://count.getloli.com/@:pigglegiggle?theme=booru-rfck&padding=7&scale=1&align=top&pixelated=1&darkmode=0"  />
 </div>
 
 ###
