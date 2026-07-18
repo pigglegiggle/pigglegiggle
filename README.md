@@ -1,3 +1,35 @@
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,go,python,rust,java,kotlin,cs,cpp,c,php,ruby,swift,dart,bash,powershell,html,css,react,nextjs,vue,nuxtjs,svelte,angular,vite,tailwind,bootstrap,materialui,nodejs,express,nestjs,fastapi,spring,graphql,apollo,prisma,supabase,firebase,mongodb,mysql,postgres,sqlite,redis,elasticsearch,dynamodb,docker,kubernetes,nginx,linux,ubuntu,debian,git,github,gitlab,githubactions,cloudflare,vercel,netlify,aws,gcp,azure,workers,terraform,prometheus,grafana,rabbitmq,kafka,figma,postman,bun,pnpm,npm,yarn,vscode,idea,neovim,obsidian&perline=12&theme=dark" />
+## Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=go,python,ts" />
+</p>
+
+## Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vue,react,vite" />
+</p>
+
+## Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,graphql" />
+</p>
+
+## Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,redis,prisma" />
+</p>
+
+## Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,cloudflare,vercel,nginx" />
+</p>
+
+## Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,postman,vscode" />
 </p>
