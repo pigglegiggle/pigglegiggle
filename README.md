@@ -12,6 +12,7 @@
 
 ### Backend
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Fiber](https://img.shields.io/badge/Fiber-00A98F?style=for-the-badge&logo=gofiber&logoColor=white)
 
 ### Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
